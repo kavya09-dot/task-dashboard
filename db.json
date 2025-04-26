@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Research Frontend Frameworks",
+      "description": "Compare React, Vue, and Angular for the new project",
+      "status": "Done"
+    },
+    {
+      "id": "2",
+      "title": "Setup Development Environment",
+      "description": "Install Node.js, Git and VS Code",
+      "status": "Done"
+    },
+    {
+      "id": "3",
+      "title": "Design Database Schema",
+      "description": "Create ER diagram for the project database",
+      "status": "Done"
+    },
+    {
+      "id": "4",
+      "title": "Create API Documentation",
+      "description": "Document all API endpoints and their usage",
+      "status": "In Progress"
+    },
+    {
+      "id": "5",
+      "title": "Implement User Authentication",
+      "description": "Add login and registration functionality",
+      "status": "To Do"
+    },
+    {
+      "id": "6",
+      "title": "Setup CI/CD Pipeline",
+      "description": "Configure GitHub Actions for automatic deployment",
+      "status": "To Do"
+    },
+    {
+      "id": "1745604895813",
+      "title": "New task",
+      "description": "new task addes",
+      "status": "In Progress"
+    },
+    {
+      "id": "1745678501843",
+      "title": "setup webpack",
+      "description": "setup webpack",
+      "status": "To Do"
+    }
+  ]
+}
